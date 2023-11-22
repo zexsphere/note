@@ -1,0 +1,11 @@
+[data-md-color-scheme="custom"] {
+  --md-primary-fg-color: #000000;
+  --md-default-bg-color: #6e8b74;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #000000;
+  --md-default-bg-color: #0f0c0c;
+  --md-footer-bg-color:  #000000;
+}
+
