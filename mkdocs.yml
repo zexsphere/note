@@ -107,5 +107,33 @@ markdown_extensions:
 
 ### 内容列表
 nav:
-  - 首页: index.md
+  - 首页: 
+    - index.md
+    - changelog.md
+  - 计算机科学: 
+    - cs/index.md
+    - 编程语言: 
+      - C++: cs/lang/cpp.md
+    - 自动化工具: 
+      - cs/tool/index.md
+      - cs/tool/task.md
+      - cs/tool/shell.md
+      - cs/tool/tmux.md
+      - cs/tool/vim.md
+      - cs/tool/git.md
+      - cs/tool/make.md
+      - cs/tool/docker.md
+      - cs/tool/toolbox.md
+    - 算法:
+      - cs/algo/index.md
+    - 课程学习: 
+      - cs/course/index.md
+  - 软件使用:
+    - sw/index.md 
+  - 阅读写作:
+    - rw/index.md
+    - rw/email.md
+  - 游戏通关:
+    - gm/katana-zero.md
+    - gm/the-maze-detective.md
 
