@@ -113,8 +113,6 @@ nav:
     - changelog.md
   - 计算机科学: 
     - cs/index.md
-    - 编程语言: 
-      - C++: cs/lang/cpp.md
     - 自动化工具: 
       - cs/tool/index.md
       - cs/tool/task.md
@@ -125,16 +123,41 @@ nav:
       - cs/tool/make.md
       - cs/tool/docker.md
       - cs/tool/toolbox.md
+    - 编程语言: 
+      - C++: cs/lang/cpp.md
     - 算法:
       - cs/algo/index.md
     - 课程学习: 
       - cs/course/index.md
+    - 随笔:
+      - cs/essay/index.md
+      - cs/essay/0002.md
+      - cs/essay/0004.md
+      - cs/essay/0005.md
+      - cs/essay/0006.md
+      - cs/essay/0007.md
+      - cs/essay/0008.md
+      - cs/essay/0009.md
+      - cs/essay/0010.md
+      - cs/essay/0011.md
+      - cs/essay/0012.md
+      - cs/essay/0013.md
   - 软件使用:
     - sw/index.md 
+    - sw/aseprite.md 
   - 阅读写作:
     - rw/index.md
     - rw/email.md
   - 游戏通关:
     - gm/katana-zero.md
     - gm/the-maze-detective.md
-
+  - 健康:
+    - health/index.md
+    - health/vajra.md
+    - 人纪:
+      - 针灸:
+        - health/human-age/acupuncture/index.md
+  - 其他:
+    - leetcode:
+      - others/leetcode/index.md
+    - others/8-legged.md
